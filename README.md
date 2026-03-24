@@ -45,15 +45,15 @@ df['rate'] = df['rate'].apply(handleRate)
 ```
 
 4. Exploratory Data Analysis (EDA)
-**📊 Restaurant Types**
+- **📊 Restaurant Types**
 Most restaurants fall under Dining category
-**🗳️ Votes Analysis**
+- **🗳️ Votes Analysis**
 Dining restaurants receive the highest number of votes
-**⭐ Ratings Distribution**
+- **⭐ Ratings Distribution**
 Most ratings are between 3.5 and 4
-**💻 Online Orders**
+- **💻 Online Orders**
 Majority of restaurants do not offer online ordering
-**💰 Cost for Couples**
+- **💰 Cost for Couples**
 Preferred price range ≈ 300 (local currency)
 
 ## Key Insights 
